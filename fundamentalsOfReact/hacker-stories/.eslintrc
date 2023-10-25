@@ -1,0 +1,13 @@
+/**
+ *  Title: hacker stories
+ *  Author: Robin Wieruch
+ *  Modified By: Brooke Taylor
+ *  Date: 10/24/2023
+ *  Description: eslint.
+ */
+
+{
+    "extends":[
+        "react-app"
+    ]
+}
